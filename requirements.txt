@@ -1,0 +1,9 @@
+seaborn
+matplotlib
+panda 
+numpy
+flask
+ipykernel
+opencv-python
+ultralytics
+supervision
